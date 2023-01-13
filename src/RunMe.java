@@ -2,6 +2,7 @@ import core.DisplayWindow;
 
 public class RunMe {
     public static void main(String[] args) {
+        int nerd;
         // --== Load an image to filter ==--
         DisplayWindow.showFor("images/6.jpg", 800, 600);
 
